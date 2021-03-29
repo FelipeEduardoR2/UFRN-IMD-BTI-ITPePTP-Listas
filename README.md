@@ -1,2 +1,2 @@
-# UFRN-IMD-BTI-ITPePTP-Listas
-Todas as listas de exercícios/trabalhos resolvidos dos blocos Introdução as Técnicas de Programação e Práticas de Técnicas de Programação no semestre 2018.2.
+# UFRN-IMD-BTI - Listas
+Todas as listas de exercícios/trabalhos resolvidos nas disciplinas cursadas no Bacharelado em Tecnologia da Informação no Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.
